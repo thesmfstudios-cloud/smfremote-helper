@@ -1,0 +1,11 @@
+{
+  "youtube": {"type":"url","value":"https://www.youtube.com"},
+  "gmail": {"type":"url","value":"https://mail.google.com"},
+  "drive": {"type":"url","value":"https://drive.google.com"},
+  "whatsapp": {"type":"url","value":"https://web.whatsapp.com"},
+  "razorpay": {"type":"url","value":"https://dashboard.razorpay.com/app/home"},
+  "aws-billing": {"type":"url","value":"https://console.aws.amazon.com/billing/home"},
+  "desktop": {"type":"folder","value":"C:\\Users\\Jab We Wed -2\\Desktop"},
+  "chrome-front": {"type":"focus","value":"chrome"},
+  "studio-work": {"type":"sequence","value":["gmail","drive","whatsapp","razorpay","aws-billing","desktop"]}
+}
